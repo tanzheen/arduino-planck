@@ -9,8 +9,9 @@
 const int slaveSelectPin = 10;
 
 // Initialise the addresses of the 3 adafruit sensors
-Adafruit_INA219 ina219(0x40);  // First INA219 at address 0x40
-
+Adafruit_INA219 ina219_0(0x40);  // First INA219 at address 0x40
+Adafruit_INA219 ina219_1(0x41);  // Second INA219 at address 0x41
+Adafruit_INA219 ina219_2(0x44);  // Third INA219 at address 0x44
 
 // set pins for the LCD panel 
 const int rs = 12, en = 9, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
@@ -24,12 +25,26 @@ void setup() {
   Serial.begin(9600);
   Wire.begin();
   // Initialise the 1st INA219 
-    Serial.println("Failed to find INA219 chip");
-  if (! ina219.begin()) {
+    Serial.println("Failed to find INA219 loc0 chip");
+  if (! ina219_0.begin()) {
     while (1) { delay(10); }
   }
-  Serial.println("INA219 Found!");
- 
+  Serial.println("INA219 loc0 Found!");
+  
+  // Initialise the 2nd INA219
+  if (! ina219_1.begin()) {
+    Serial.println("Failed to find INA219 loc1 chip");
+    while (1) { delay(10); }
+  }
+  Serial.println("INA219 loc1 Found!");
+
+  // Initialise the 3rd INA219
+  if (! ina219_2.begin()) {
+    Serial.println("Failed to find INA219 loc2 chip");
+    while (1) { delay(10); }
+  }
+  Serial.println("INA219 loc2 Found!");
+
 
 // Digital potentiometer setup 
   //set the slave select pin as the output
@@ -42,7 +57,9 @@ void setup() {
   }
 
 // Initilise empty turn on voltages to keep track for the 3 lasers
-  float turn_on_v = 0 
+  float turn_on_voltage0 = 0;
+  float turn_on_voltage1 = 0; 
+  float turn_on_voltage2 = 0; 
 
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
@@ -54,14 +71,22 @@ void setup() {
 // put your main code here, to run repeatedly:
 void loop() {
 
-  const channel = 0 //W1 channel 
-  turn_on_v = measureTurnOnVoltage(ina219, channel)
-  Serial.print("Turn on Voltage: ");Serial.print(turn_on_v); Serial.println(" V");
-    
+  //retrieve turn on voltage for each of the laser diodes
+  for (int channel = 0; channel < 3; channel++) {
+    if (channel ==0){
+      turn_on_voltage0 = measureTurnOnVoltage(ina219_0, channel)
+      Serial.print("Turn on Voltage 0: ");Serial.print(turn_on_voltage0); Serial.println(" V");
+    } else if (channel ==1 ){
+      turn_on_voltage1 = measureTurnOnVoltage(ina219_1, channel)
+      Serial.print("Turn on Voltage 1: ");Serial.print(turn_on_voltage1); Serial.println(" V");
+    } else if (channel ==2 ){
+      turn_on_voltage2 = measureTurnOnVoltage(ina219_2, channel)
+      Serial.print("Turn on Voltage 2: ");Serial.print(turn_on_voltage2); Serial.println(" V");
+    }
   delay(10);
 
-
-  calc_disp_planck(turn_on_v)
+  //calculate planck's constant and display on LCD
+  calc_disp_planck_slope(turn_on_voltage0, turn_on_voltage1, turn_on_voltage2)
   //calc_disp_planck_avg(turn_on_voltage0, turn_on_voltage1, turn_on_voltage2)
 }
 
@@ -127,23 +152,63 @@ void measureTurnOnVolts(Adafruit_INA219 &ina219, int channel) {
   }
 }
 
-
-
-void calc_disp_planck(float turn_on_v){
+void calc_disp_planck_slope(float turn_on_v0, float turn_on_v1, float turn_on_v2){
   // calculating using the slope method
   const int numPoints = 3;  // Number of data points
   float e = 1.60217663e-19;
   float c = 299792458;
   // x values: 1/lambda; NEED TO CHANGE THE WAVELENGTH
   // y values: turn on voltage
-  float lambda = 660e-9;
+  float l0_lambda = 660e-9;
+  float l0_rep_lambda = 1.0/l0_lambda; 
+  float l1_lambda = 660e-9;
+  float l1_rep_lambda = 1.0/l0_lambda; 
+  float l2_lambda = 660e-9;
+  float l2_rep_lambda = 1.0/l0_lambda; 
+  float xValues[numPoints] = {l0_rep_lamda , l1_rep_lambda , l2_rep_lambda}; 
+  float yValues[numPoints] = {turn_on_v0 , turn_on_v1, turn_on_v2};
 
-  float h = e * turn_on_v * lambda/c;
+  // Calculate sums needed for the best-fit line
+  for (int i = 0; i < numPoints; i++) {
+    sumX += xValues[i];
+    sumY += yValues[i];
+    sumXY += xValues[i] * yValues[i];
+    sumX2 += xValues[i] * xValues[i];
+  }
 
+  // Calculate slope (m) 
+  float m = (numPoints * sumXY - sumX * sumY) / (numPoints * sumX2 - sumX * sumX);
+  // Display the results
+  
+  float h = m * e/c
   Serial.print("Planck's constant (h): ");Serial.println(h);
   // Display the slope on the LCD
   lcd.setCursor(0, 0);  // Set cursor to first line
   lcd.print("Planck's constant:");
   lcd.setCursor(0, 1);  // Set cursor to second line
   lcd.print(h, 10);  // Print slope with 6 decimal places
+}
+
+
+void calc_disp_planck_avg(float turn_on_v0, float turn_on_v1, float turn_on_v2){
+  // calculating using the slope method
+  const int numPoints = 3;  // Number of data points
+  float e = 1.60217663e-19;
+  float c = 299792458;
+  // x values: 1/lambda; NEED TO CHANGE THE WAVELENGTH
+  // y values: turn on voltage
+  float l0_lambda = 660e-9;
+  float l1_lambda = 660e-9; 
+  float l2_lambda = 660e-9;
+  float h0 = e * turn_on_v0* l0_lambda/c;
+  float h1 = e * turn_on_v1_ l1_lambda/c;
+  float h2 = e * turn_on_v2* l2_lambda/c;
+
+  float avg_h = (h0 + h1 + h2)/numPoints; 
+  Serial.print("Planck's constant (h): ");Serial.println(avg_h);
+  // Display the slope on the LCD
+  lcd.setCursor(0, 0);  // Set cursor to first line
+  lcd.print("Planck's constant:");
+  lcd.setCursor(0, 1);  // Set cursor to second line
+  lcd.print(avg_h, 10);  // Print slope with 6 decimal places
 }
