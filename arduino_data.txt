@@ -1,0 +1,921 @@
+Bus Voltage:   0.08000 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  0.08000 V
+Current:       0.10000 mA
+
+Digi pot level: 2
+Bus Voltage:   0.12400 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.12401 V
+Current:       0.10000 mA
+
+Digi pot level: 3
+Bus Voltage:   0.17600 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  0.17600 V
+Current:       0.00000 mA
+
+Digi pot level: 4
+Bus Voltage:   0.22400 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.22401 V
+Current:       0.00000 mA
+
+Digi pot level: 5
+Bus Voltage:   0.27200 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  0.27200 V
+Current:       0.00000 mA
+
+Digi pot level: 6
+Bus Voltage:   0.32000 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.32001 V
+Current:       0.00000 mA
+
+Digi pot level: 7
+Bus Voltage:   0.37200 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.37201 V
+Current:       0.10000 mA
+
+Digi pot level: 8
+Bus Voltage:   0.42000 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.42001 V
+Current:       0.10000 mA
+
+Digi pot level: 9
+Bus Voltage:   0.46800 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.46801 V
+Current:       0.00000 mA
+
+Digi pot level: 10
+Bus Voltage:   0.52000 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.52001 V
+Current:       0.10000 mA
+
+Digi pot level: 11
+Bus Voltage:   0.56800 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.56801 V
+Current:       0.00000 mA
+
+Digi pot level: 12
+Bus Voltage:   0.61600 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.61601 V
+Current:       0.00000 mA
+
+Digi pot level: 13
+Bus Voltage:   0.66400 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.66401 V
+Current:       0.00000 mA
+
+Digi pot level: 14
+Bus Voltage:   0.71200 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.71201 V
+Current:       0.00000 mA
+
+Digi pot level: 15
+Bus Voltage:   0.76000 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.76001 V
+Current:       0.00000 mA
+
+Digi pot level: 16
+Bus Voltage:   0.81200 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  0.81200 V
+Current:       0.10000 mA
+
+Digi pot level: 17
+Bus Voltage:   0.85600 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.85601 V
+Current:       0.10000 mA
+
+Digi pot level: 18
+Bus Voltage:   0.90400 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.90401 V
+Current:       0.00000 mA
+
+Digi pot level: 19
+Bus Voltage:   0.95200 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  0.95201 V
+Current:       0.00000 mA
+
+Digi pot level: 20
+Bus Voltage:   1.00000 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  1.00000 V
+Current:       0.10000 mA
+
+Digi pot level: 21
+Bus Voltage:   1.04800 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.04801 V
+Current:       0.10000 mA
+
+Digi pot level: 22
+Bus Voltage:   1.09200 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  1.09200 V
+Current:       0.10000 mA
+
+Digi pot level: 23
+Bus Voltage:   1.14000 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.14001 V
+Current:       0.10000 mA
+
+Digi pot level: 24
+Bus Voltage:   1.18400 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  1.18400 V
+Current:       0.10000 mA
+
+Digi pot level: 25
+Bus Voltage:   1.23200 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  1.23200 V
+Current:       0.10000 mA
+
+Digi pot level: 26
+Bus Voltage:   1.28000 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.28001 V
+Current:       0.10000 mA
+
+Digi pot level: 27
+Bus Voltage:   1.32800 V
+Shunt Voltage: 0.00000 mV
+Load Voltage:  1.32800 V
+Current:       0.10000 mA
+
+Digi pot level: 28
+Bus Voltage:   1.37600 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.37601 V
+Current:       0.10000 mA
+
+Digi pot level: 29
+Bus Voltage:   1.42000 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.42001 V
+Current:       0.00000 mA
+
+Digi pot level: 30
+Bus Voltage:   1.46400 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.46401 V
+Current:       0.00000 mA
+
+Digi pot level: 31
+Bus Voltage:   1.50800 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.50801 V
+Current:       0.10000 mA
+
+Digi pot level: 32
+Bus Voltage:   1.54400 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.54401 V
+Current:       0.10000 mA
+
+Digi pot level: 33
+Bus Voltage:   1.57200 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.57201 V
+Current:       0.10000 mA
+
+Digi pot level: 34
+Bus Voltage:   1.59600 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.59601 V
+Current:       0.10000 mA
+
+Digi pot level: 35
+Bus Voltage:   1.61200 V
+Shunt Voltage: 0.02000 mV
+Load Voltage:  1.61202 V
+Current:       0.10000 mA
+
+Digi pot level: 36
+Bus Voltage:   1.63200 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.63201 V
+Current:       0.10000 mA
+
+Digi pot level: 37
+Bus Voltage:   1.64000 V
+Shunt Voltage: 0.01000 mV
+Load Voltage:  1.64001 V
+Current:       0.20000 mA
+
+Digi pot level: 38
+Bus Voltage:   1.65600 V
+Shunt Voltage: 0.02000 mV
+Load Voltage:  1.65602 V
+Current:       0.20000 mA
+
+Digi pot level: 39
+Bus Voltage:   1.66400 V
+Shunt Voltage: 0.02000 mV
+Load Voltage:  1.66402 V
+Current:       0.10000 mA
+
+Digi pot level: 40
+Bus Voltage:   1.67600 V
+Shunt Voltage: 0.03000 mV
+Load Voltage:  1.67603 V
+Current:       0.20000 mA
+
+Digi pot level: 41
+Bus Voltage:   1.68000 V
+Shunt Voltage: 0.02000 mV
+Load Voltage:  1.68002 V
+Current:       0.20000 mA
+
+Digi pot level: 42
+Bus Voltage:   1.69200 V
+Shunt Voltage: 0.02000 mV
+Load Voltage:  1.69202 V
+Current:       0.20000 mA
+
+Digi pot level: 43
+Bus Voltage:   1.69600 V
+Shunt Voltage: 0.02000 mV
+Load Voltage:  1.69602 V
+Current:       0.20000 mA
+
+Digi pot level: 44
+Bus Voltage:   1.70400 V
+Shunt Voltage: 0.03000 mV
+Load Voltage:  1.70403 V
+Current:       0.20000 mA
+
+Digi pot level: 45
+Bus Voltage:   1.70800 V
+Shunt Voltage: 0.03000 mV
+Load Voltage:  1.70803 V
+Current:       0.30000 mA
+
+Digi pot level: 46
+Bus Voltage:   1.71200 V
+Shunt Voltage: 0.03000 mV
+Load Voltage:  1.71203 V
+Current:       0.40000 mA
+
+Digi pot level: 47
+Bus Voltage:   1.71600 V
+Shunt Voltage: 0.04000 mV
+Load Voltage:  1.71604 V
+Current:       0.30000 mA
+
+Digi pot level: 48
+Bus Voltage:   1.72000 V
+Shunt Voltage: 0.04000 mV
+Load Voltage:  1.72004 V
+Current:       0.40000 mA
+
+Digi pot level: 49
+Bus Voltage:   1.72400 V
+Shunt Voltage: 0.04000 mV
+Load Voltage:  1.72404 V
+Current:       0.40000 mA
+
+Digi pot level: 50
+Bus Voltage:   1.72800 V
+Shunt Voltage: 0.04000 mV
+Load Voltage:  1.72804 V
+Current:       0.40000 mA
+
+Digi pot level: 51
+Bus Voltage:   1.73200 V
+Shunt Voltage: 0.04000 mV
+Load Voltage:  1.73204 V
+Current:       0.40000 mA
+
+Digi pot level: 52
+Bus Voltage:   1.73600 V
+Shunt Voltage: 0.05000 mV
+Load Voltage:  1.73605 V
+Current:       0.40000 mA
+
+Digi pot level: 53
+Bus Voltage:   1.74000 V
+Shunt Voltage: 0.04000 mV
+Load Voltage:  1.74004 V
+Current:       0.50000 mA
+
+Digi pot level: 54
+Bus Voltage:   1.74400 V
+Shunt Voltage: 0.05000 mV
+Load Voltage:  1.74405 V
+Current:       0.50000 mA
+
+Digi pot level: 55
+Bus Voltage:   1.74400 V
+Shunt Voltage: 0.05000 mV
+Load Voltage:  1.74405 V
+Current:       0.50000 mA
+
+Digi pot level: 56
+Bus Voltage:   1.74800 V
+Shunt Voltage: 0.05000 mV
+Load Voltage:  1.74805 V
+Current:       0.60000 mA
+
+Digi pot level: 57
+Bus Voltage:   1.75200 V
+Shunt Voltage: 0.06000 mV
+Load Voltage:  1.75206 V
+Current:       0.60000 mA
+
+Digi pot level: 58
+Bus Voltage:   1.75600 V
+Shunt Voltage: 0.06000 mV
+Load Voltage:  1.75606 V
+Current:       0.60000 mA
+
+Digi pot level: 59
+Bus Voltage:   1.76000 V
+Shunt Voltage: 0.07000 mV
+Load Voltage:  1.76007 V
+Current:       0.60000 mA
+
+Digi pot level: 60
+Bus Voltage:   1.76000 V
+Shunt Voltage: 0.07000 mV
+Load Voltage:  1.76007 V
+Current:       0.70000 mA
+
+Digi pot level: 61
+Bus Voltage:   1.76400 V
+Shunt Voltage: 0.08000 mV
+Load Voltage:  1.76408 V
+Current:       0.70000 mA
+
+Digi pot level: 62
+Bus Voltage:   1.76800 V
+Shunt Voltage: 0.08000 mV
+Load Voltage:  1.76808 V
+Current:       0.70000 mA
+
+Digi pot level: 63
+Bus Voltage:   1.76800 V
+Shunt Voltage: 0.08000 mV
+Load Voltage:  1.76808 V
+Current:       0.80000 mA
+
+Digi pot level: 64
+Bus Voltage:   1.77200 V
+Shunt Voltage: 0.08000 mV
+Load Voltage:  1.77208 V
+Current:       0.80000 mA
+
+Digi pot level: 65
+Bus Voltage:   1.77200 V
+Shunt Voltage: 0.08000 mV
+Load Voltage:  1.77208 V
+Current:       0.80000 mA
+
+Digi pot level: 66
+Bus Voltage:   1.77600 V
+Shunt Voltage: 0.08000 mV
+Load Voltage:  1.77608 V
+Current:       0.90000 mA
+
+Digi pot level: 67
+Bus Voltage:   1.78000 V
+Shunt Voltage: 0.09000 mV
+Load Voltage:  1.78009 V
+Current:       0.90000 mA
+
+Digi pot level: 68
+Bus Voltage:   1.78400 V
+Shunt Voltage: 0.09000 mV
+Load Voltage:  1.78409 V
+Current:       0.90000 mA
+
+Digi pot level: 69
+Bus Voltage:   1.78400 V
+Shunt Voltage: 0.10000 mV
+Load Voltage:  1.78410 V
+Current:       1.00000 mA
+
+Digi pot level: 70
+Bus Voltage:   1.78800 V
+Shunt Voltage: 0.10000 mV
+Load Voltage:  1.78810 V
+Current:       1.00000 mA
+
+Digi pot level: 71
+Bus Voltage:   1.79200 V
+Shunt Voltage: 0.11000 mV
+Load Voltage:  1.79211 V
+Current:       1.10000 mA
+
+Digi pot level: 72
+Bus Voltage:   1.79600 V
+Shunt Voltage: 0.11000 mV
+Load Voltage:  1.79611 V
+Current:       1.10000 mA
+
+Digi pot level: 73
+Bus Voltage:   1.79600 V
+Shunt Voltage: 0.12000 mV
+Load Voltage:  1.79612 V
+Current:       1.20000 mA
+
+Digi pot level: 74
+Bus Voltage:   1.80000 V
+Shunt Voltage: 0.12000 mV
+Load Voltage:  1.80012 V
+Current:       1.20000 mA
+
+Digi pot level: 75
+Bus Voltage:   1.80400 V
+Shunt Voltage: 0.13000 mV
+Load Voltage:  1.80413 V
+Current:       1.30000 mA
+
+Digi pot level: 76
+Bus Voltage:   1.80800 V
+Shunt Voltage: 0.13000 mV
+Load Voltage:  1.80813 V
+Current:       1.30000 mA
+
+Digi pot level: 77
+Bus Voltage:   1.81200 V
+Shunt Voltage: 0.14000 mV
+Load Voltage:  1.81214 V
+Current:       1.40000 mA
+
+Digi pot level: 78
+Bus Voltage:   1.81600 V
+Shunt Voltage: 0.15000 mV
+Load Voltage:  1.81615 V
+Current:       1.50000 mA
+
+Digi pot level: 79
+Bus Voltage:   1.82000 V
+Shunt Voltage: 0.17000 mV
+Load Voltage:  1.82017 V
+Current:       1.60000 mA
+
+Digi pot level: 80
+Bus Voltage:   1.82400 V
+Shunt Voltage: 0.17000 mV
+Load Voltage:  1.82417 V
+Current:       1.70000 mA
+
+Digi pot level: 81
+Bus Voltage:   1.82800 V
+Shunt Voltage: 0.19000 mV
+Load Voltage:  1.82819 V
+Current:       1.90000 mA
+
+Digi pot level: 82
+Bus Voltage:   1.83200 V
+Shunt Voltage: 0.19000 mV
+Load Voltage:  1.83219 V
+Current:       1.90000 mA
+
+Digi pot level: 83
+Bus Voltage:   1.84000 V
+Shunt Voltage: 0.21000 mV
+Load Voltage:  1.84021 V
+Current:       2.10000 mA
+
+Digi pot level: 84
+Bus Voltage:   1.84400 V
+Shunt Voltage: 0.23000 mV
+Load Voltage:  1.84423 V
+Current:       2.30000 mA
+
+Digi pot level: 85
+Bus Voltage:   1.85200 V
+Shunt Voltage: 0.24000 mV
+Load Voltage:  1.85224 V
+Current:       2.40000 mA
+
+Digi pot level: 86
+Bus Voltage:   1.86000 V
+Shunt Voltage: 0.26000 mV
+Load Voltage:  1.86026 V
+Current:       2.60000 mA
+
+Digi pot level: 87
+Bus Voltage:   1.86400 V
+Shunt Voltage: 0.28000 mV
+Load Voltage:  1.86428 V
+Current:       2.90000 mA
+
+Digi pot level: 88
+Bus Voltage:   1.87600 V
+Shunt Voltage: 0.31000 mV
+Load Voltage:  1.87631 V
+Current:       3.10000 mA
+
+Digi pot level: 89
+Bus Voltage:   1.88400 V
+Shunt Voltage: 0.34000 mV
+Load Voltage:  1.88434 V
+Current:       3.50000 mA
+
+Digi pot level: 90
+Bus Voltage:   1.89600 V
+Shunt Voltage: 0.39000 mV
+Load Voltage:  1.89639 V
+Current:       3.90000 mA
+
+Digi pot level: 91
+Bus Voltage:   1.91200 V
+Shunt Voltage: 0.44000 mV
+Load Voltage:  1.91244 V
+Current:       4.40000 mA
+
+Digi pot level: 92
+Bus Voltage:   1.92800 V
+Shunt Voltage: 0.51000 mV
+Load Voltage:  1.92851 V
+Current:       5.20000 mA
+
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+Planck's constant (h): 6.8022961617
+6.8022961617
